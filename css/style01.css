@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+:root{
+    --brand-main-color:#ffcb40;
+    --brand-main-color-dark:#a68735;
+    --brand-main-color-med:#ead18d;
+    --brand-main-color-light:#ede8da;
+    --green-dark:#b0d8c9;
+    --green-med:#d6dedb;
+    --green-light:#e6e6e6;
+}
+
+html{
+    font-family:'Karla',sans-serif;
+    font-size:20px;
+}
+
+body{
+	background-image: url("../images/tile_tan.jpg");
+    background-attachment:fixed;
+}
